@@ -5,12 +5,14 @@ I'm a seasoned Full Stack Developer with over 15 years of coding experience and 
 
 ### Languages I Love:
 
+|-----------|-----------|-----------|-----------|-----------|
 | C++       | C#        | PHP       | Python    | Java      |
 | Kotlin    | Swift     | Objective-C | Dart     | Go        |
 | Ruby      | Rust      | JavaScript | TypeScript|           |
 
 ### Frameworks I Rock:
 
+|-----------|-----------|-----------|-----------|-----------|
 | React     | Angular   | Vue.js    | Node.js   | Laravel   |
 | Yii       | CI        | Django    | Flask     | Gin       |
 | Flutter   | React Native | Ruby On Rails |         |           |
