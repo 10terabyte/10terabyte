@@ -16,7 +16,7 @@ I'm a seasoned Full Stack Developer with over **8+ years** of coding experience 
 
 ### Frameworks I Rock:
 
-![Spring](https://img.shields.io/badge/Angular-8_years-blue)
+![Spring](https://img.shields.io/badge/Spring-8_years-blue)
 ![React](https://img.shields.io/badge/React-6_years-blue)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4_years-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-8_years-blue)
