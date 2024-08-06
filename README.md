@@ -5,8 +5,8 @@ I'm a seasoned Full Stack Developer with over **8+ years** of coding experience 
 ### Languages I Love:
 
 ![C++](https://img.shields.io/badge/C++-12_years-blue)
-![C#](https://img.shields.io/badge/C%23-10_years-blue)
-![PHP](https://img.shields.io/badge/PHP-10_years-blue)
+![Java](https://img.shields.io/badge/Java-10_years-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-6_years-blue)
 ![Python](https://img.shields.io/badge/Python-7_years-blue)
 ![Go](https://img.shields.io/badge/Go-4_years-blue)
 ![Ruby](https://img.shields.io/badge/Ruby-6_years-blue)
@@ -16,8 +16,8 @@ I'm a seasoned Full Stack Developer with over **8+ years** of coding experience 
 
 ### Frameworks I Rock:
 
+![Spring](https://img.shields.io/badge/Angular-8_years-blue)
 ![React](https://img.shields.io/badge/React-6_years-blue)
-![Angular](https://img.shields.io/badge/Angular-5_years-blue)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4_years-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-8_years-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-7_years-blue)
@@ -25,7 +25,6 @@ I'm a seasoned Full Stack Developer with over **8+ years** of coding experience 
 ![Flask](https://img.shields.io/badge/Flask-4_years-blue)
 ![Gin](https://img.shields.io/badge/Gin-3_years-blue)
 ![React Native](https://img.shields.io/badge/React%20Native-5_years-blue)
-![Ruby On Rails](https://img.shields.io/badge/Ruby%20On%20Rails-6_years-blue)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-6_years-blue)
 
 Thanks for stopping by my profile. Let's create something amazing together!
